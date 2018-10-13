@@ -48,17 +48,6 @@ Books:
 get: /api/books
 get: /api/books/1
 post: /api/books
-put: /api/books/1
-delete: /api/books/1
 ```
 
-genres:
-
-```sh
-get: /api/genres
-get: /api/genres/1
-post: /api/genres
-put: /api/genres/1
-delete: /api/genres/1
-```
 ### Use postman to test api
