@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Agile",
+      "last_name": "Hamid"
+    },
+    {
+      "id": 2,
+      "first_name": "Charles",
+      "last_name": "Morris"
+    },
+    {
+      "id": 3,
+      "first_name": "Tracey",
+      "last_name": "Ramos"
+    },
+    {
+      "id": "4",
+      "first_name": "Fed",
+      "last_name": "Rose"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The President Is Missing",
+      "genres": "Mystery",
+      "description": "The publishing event of 2018: Bill Clinton and James Patterson’s The President Is Missing is a superlative thriller…one that can really happen, and one that must not be missed",
+      "author": "Bill Clinton and James Patterson"
+    },
+    {
+      "id": 2,
+      "title": "Ordinary People",
+      "genres": "Drama",
+      "description": "From the author of 26a comes Ordinary People, a remarkable novel about two couples who are drifting apart. ",
+      "author": "Diana Evans"
+    },
+    {
+      "id": 3,
+      "title": "The Shepherd’s Hut",
+      "genres": "Action and Adventure",
+      "description": "Tim Winton’s brilliant novel The Riders was about a journey with a potentially perilous ending, and his new novel, The Shepherd’s Hut, revisits some of these themes",
+      "author": "Tim Winton"
+    },
+    {
+      "id": 4,
+      "title": "The Mermaid and Mrs Hancock",
+      "genres": "Romance",
+      "description": "Described by The Bookseller as the next The Essex Serpent, this astounding debut delivers a wonderful romp through Georgian London, charting one merchant’s unlikely rise through society when he is gifted an unusual creature from the sea and decides to display it to the public.",
+      "author": "Imogen Hermes Gowar"
+    },
+    {
+      "title": "Avengers",
+      "genres": "Action",
+      "description": "This is best book ever",
+      "author": "MonsterLab",
+      "id": 5
+    },
+    {
+      "title": "Avengers",
+      "genres": "Action",
+      "description": "This is best book ever",
+      "author": "MonsterLab",
+      "id": 6
+    },
+    {
+      "title": "Avengers",
+      "genres": "Action",
+      "description": "This is best book ever",
+      "author": "MonsterLab",
+      "id": 7
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Drama"
+    },
+    {
+      "id": 2,
+      "name": "Action and Adventure"
+    },
+    {
+      "id": 3,
+      "name": "Mystery"
+    },
+    {
+      "id": 4,
+      "name": "Romance"
+    }
+  ]
+}

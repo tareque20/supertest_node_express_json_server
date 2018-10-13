@@ -1,0 +1,36 @@
+{
+  "name": "supertest-nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "Testing node applicationaand api using Supertest,mocha and Istanbul",
+  "main": "app.js",
+  "scripts": {
+    "start-json": "json-server db/db.json",
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "chai": "^4.2.0",
+    "cookie-parser": "^1.4.3",
+    "express": "*",
+    "express-session": "^1.15.6",
+    "istanbul": "^0.4.5",
+    "joi": "^13.3.0",
+    "node-fetch": "^2.2.0",
+    "request": "^2.88.0",
+    "supertest": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tareque20/supertest_node_express_json_server"
+  },
+  "author": "Tasfin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tareque20/supertest_node_express_json_server/issues"
+  },
+  "homepage": "https://github.com/tareque20/supertest_node_express_json_server#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1"
+  }
+}
