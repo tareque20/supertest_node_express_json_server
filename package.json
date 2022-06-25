@@ -15,7 +15,7 @@
     "express-session": ">=1.15.6",
     "istanbul": ">=0.4.5",
     "joi": ">=13.3.0",
-    "node-fetch": ">=2.2.0",
+    "node-fetch": ">=2.6.7",
     "request": ">=2.88.0",
     "supertest": ">=3.3.0"
   },
