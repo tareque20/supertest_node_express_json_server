@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/tareque20/supertest_node_express_json_server#readme",
   "devDependencies": {
-    "mocha": ">=5.2.0",
+    "mocha": ">=10.2.0",
     "nyc": ">=13.0.1"
   }
 }
